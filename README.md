@@ -1,0 +1,1 @@
+Essa foi uma API para um projeto da faculdade, para um app em Flutter. O app é para que pessoas criem e enconterem trilha na Chapada diamantina, afim de ajudar pessoas a encontar lugar para se divertir 
